@@ -1,4 +1,8 @@
-## Hi there 👋
+<h2 align="center">Hi there ✨ I'm Patrick </h2>
+
+I recently graduated with a Master's in Financial Engineering and a Bachelor's in Industrial Engineering and Computer Engineering.
+
+You can visit [my website](https://patrickmurphym.github.io/) to learn more about my skills and experiences.
 
 <!--
 **patrickmurphym/patrickmurphym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
