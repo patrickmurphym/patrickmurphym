@@ -2,7 +2,7 @@
 
 I recently graduated with a Master's in Financial Engineering and a Bachelor's in Industrial Engineering and Computer Engineering.
 
-You can visit [my website](https://patrickmurphym.github.io/) to learn more about my skills and experiences.
+You can visit <a href="https://patrickmurphym.github.io/" target="_blank">my website</a> to learn more about my skills and experiences.
 
 Here's my [resume](https://drive.google.com/file/d/1QM9CRz4XiA-Ey8qTvdzxLQ0lBqxjt8s8/view?usp=sharing).
 
