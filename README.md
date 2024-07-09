@@ -4,7 +4,7 @@ I recently graduated with a Master's in Financial Engineering and a Bachelor's i
 
 You can visit <a href="https://patrickmurphym.github.io/" target="_blank">my website</a> to learn more about my skills and experiences.
 
-Here's my [resume](https://drive.google.com/file/d/1QM9CRz4XiA-Ey8qTvdzxLQ0lBqxjt8s8/view?usp=sharing).
+Here's my [resume](https://drive.google.com/file/d/1SaQAjfRpi9arBgot_QbtRVnWNC9vD4MN/view?usp=sharing).
 
 <!--
 **patrickmurphym/patrickmurphym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
