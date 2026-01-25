@@ -1,6 +1,6 @@
-<h2 align="left">Hi there ✨ I'm Patrick </h2>
+<h2 align="left">Hi there! I'm Patrick ✨ </h2>
 
-I'm an analyst in the Real Estate Lending industry. I've worked in Asset Management and Portfolio Analysis.
+I'm an analyst in the Private Real Estate Lending industry. I've worked in Asset Management and Portfolio Analysis.
 
 I hold a Master's in Financial Engineering from NYU, and a Bachelor's in Industrial Engineering from Universidad Adolfo Ibanez.
 
