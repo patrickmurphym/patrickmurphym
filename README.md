@@ -1,10 +1,8 @@
-<h2 align="center">Hi there ✨ I'm Patrick </h2>
+<h2 align="left">Hi there ✨ I'm Patrick </h2>
 
-I recently graduated with a Master's in Financial Engineering and a Bachelor's in Industrial Engineering and Computer Engineering.
+I'm an analyst in the Real Estate Lending industry. I've worked in Asset Management and Portfolio Analysis.
 
-You can visit <a href="https://patrickmurphym.github.io/" target="_blank">my website</a> to learn more about my skills and experiences.
-
-Here's my [resume](https://drive.google.com/file/d/1SaQAjfRpi9arBgot_QbtRVnWNC9vD4MN/view?usp=sharing).
+I hold a Master's in Financial Engineering from NYU, and a Bachelor's in Industrial Engineering from Universidad Adolfo Ibanez.
 
 <!--
 **patrickmurphym/patrickmurphym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
