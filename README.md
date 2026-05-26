@@ -1,4 +1,4 @@
-<h2 align="left">Hi there! My name is Patrick Murphy Munoz ✨ </h2>
+<h2 align="left">Hi there! ✨ My name is Patrick J. Murphy Munoz </h2>
 
 I'm an **engineer-turned-analyst** in **private real estate lending**, focused on **turning portfolio complexity into clarity**. Over the past few years, I've worked in asset management and portfolio analysis, helping teams **see what's coming, act early, and make better decisions faster**.
 
@@ -9,7 +9,7 @@ The core of my work is **building analytic frameworks** that give lenders **visi
 
 I hold a **Master's in Financial Engineering** from **NYU** and a **Bachelor's in Industrial Engineering** from **Universidad Adolfo Ibanez**. The combination shapes how I think: **engineering rigor** applied to the messiness of capital markets, with **operational efficiency** baked into every framework I build.
 
-<a href="https://patrickmurphym.github.io/">Read more about my projects, skills and education!</a>
+> <a href="https://patrickmurphym.github.io/">Read more about my projects, skills and education!</a>
 
 <!--
 **patrickmurphym/patrickmurphym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
